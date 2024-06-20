@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Films</string>
+    <string name="edit_start">Edit start</string>
+    <string name="list_of_films">List of films</string>
+    <string name="details">Details</string>
+    <string name="create">Create</string>
+    <string name="back_button">Return</string>
+    <string name="add_button">Add button</string>
+    <string name="edit">Edit</string>
+</resources>
